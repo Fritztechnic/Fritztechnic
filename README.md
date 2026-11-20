@@ -31,25 +31,11 @@
 
 <br/>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Software</h3>
-      <br/>
-      Backend development, application architecture, APIs and full-stack applications.
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Infrastructure</h3>
-      <br/>
-      Linux systems, virtualization, containerization, networking and orchestration.
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Engineering</h3>
-      <br/>
-      Robotics, kinematics, digital logic and software-driven simulations.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/cards/about-software.svg" width="32%" alt=""/>
+  <img src="./assets/cards/about-infra.svg" width="32%" alt=""/>
+  <img src="./assets/cards/about-eng.svg" width="32%" alt=""/>
+</div>
 
 <br/><br/>
 
@@ -57,52 +43,14 @@
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0">
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>01 &nbsp; VioServe</h3>
-      <sub>HOSTING PLATFORM · INFRASTRUCTURE · SOFTWARE DEVELOPMENT</sub>
-
-      <br/><br/>
-
-      An independent hosting project focused on game servers and VPS infrastructure. Building the platform behind the service — from backend applications and APIs to virtualization, networking and monitoring.
-
-      <br/><br/>
-
-      <a href="https://vioserve.de">VISIT VIOSERVE <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>02 &nbsp; RobotArm Simulator</h3>
-      <sub>RUST · ROBOTICS · INVERSE KINEMATICS · 3D SIMULATION</sub>
-
-      <br/><br/>
-
-      A 6-DOF robotic arm simulator built in Rust using egui and wgpu. Implements forward and inverse kinematics, trajectory planning, interactive 3D manipulation and automated movement sequences.
-
-      <br/><br/>
-
-      <a href="https://github.com/Fritztechnic/robotarm-sim">VIEW SOURCE CODE <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>03 &nbsp; Logic Sandbox</h3>
-      <sub>TYPESCRIPT · DIGITAL LOGIC · COMPUTER ARCHITECTURE</sub>
-
-      <br/><br/>
-
-      An interactive browser-based digital circuit simulator. Explore logic gates, adders, registers and complete CPU architectures — including 8-bit and 32-bit RISC processors — with interactive circuits and an integrated assembly tutorial.
-
-      <br/><br/>
-
-      <a href="https://logic.vioserve.de">OPEN LIVE DEMO <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
-
-      <br/><br/>
-
-      <a href="https://github.com/Fritztechnic/logic-sandbox">VIEW SOURCE CODE <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://vioserve.de"><img src="./assets/cards/p-vioserve.svg" width="100%" alt=""/></a>
+  <br/>
+  <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/cards/p-robotarm.svg" width="49%" alt=""/></a>
+  <a href="https://logic.vioserve.de"><img src="./assets/cards/p-logic.svg" width="49%" alt=""/></a>
+  <br/>
+  <sub><a href="https://github.com/Fritztechnic/robotarm-sim">Robotarm source ↗</a> &nbsp;·&nbsp; <a href="https://logic.vioserve.de">Logic Sandbox live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Fritztechnic/logic-sandbox">Logic Sandbox source ↗</a></sub>
+</div>
 
 <br/><br/>
 
@@ -148,28 +96,13 @@
 
 <br/>
 
-<table width="100%" cellpadding="18" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>C# & .NET</h3>
-      Exploring the .NET ecosystem, application architecture and strongly typed backend development.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Cloud-native systems</h3>
-      Kubernetes, orchestration, infrastructure automation and reliable deployments.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Network engineering</h3>
-      Routing, network architecture, VPNs and infrastructure connectivity.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Robotics & Computer Architecture</h3>
-      Kinematics, mathematical modelling, digital circuits and processor architecture.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/cards/x-dotnet.svg" width="49%" alt=""/>
+  <img src="./assets/cards/x-cloud.svg" width="49%" alt=""/>
+  <br/>
+  <img src="./assets/cards/x-net.svg" width="49%" alt=""/>
+  <img src="./assets/cards/x-robo.svg" width="49%" alt=""/>
+</div>
 
 <br/><br/>
 
