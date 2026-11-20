@@ -38,8 +38,8 @@
       <p>Linux systems, virtualization, containerization, networking and orchestration.</p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>OPERATIONS</h3>
-      <p>Monitoring, automation, deployment pipelines and production environments.</p>
+      <h3>ENGINEERING</h3>
+      <p>Robotics, kinematics, digital logic and software-driven simulations.</p>
     </td>
   </tr>
 </table>
@@ -61,20 +61,22 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>02 &nbsp; PELICAN PROPERTY EDITOR</h3>
-      <sub>OPEN SOURCE · PHP · PELICAN PANEL</sub>
+      <h3>02 &nbsp; ROBOTARM SIMULATOR</h3>
+      <sub>RUST · ROBOTICS · INVERSE KINEMATICS · 3D SIMULATION</sub>
       <br/><br/>
-      A graphical Minecraft server properties editor for Pelican. Makes configuring server settings possible directly through the web interface.
+      A 6-DOF robotic arm simulator built in Rust using egui and wgpu. Implements forward and inverse kinematics, trajectory planning, interactive 3D manipulation and automated movement sequences.
       <br/><br/>
-      <a href="https://github.com/Fritztechnic/pelican-property-editor">VIEW REPOSITORY ↗</a>
+      <a href="https://github.com/Fritztechnic/robotarm-sim">VIEW SOURCE CODE ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>03 &nbsp; PELICAN MONITOR</h3>
-      <sub>OPEN SOURCE · SERVER MONITORING</sub>
+      <h3>03 &nbsp; LOGIC SANDBOX</h3>
+      <sub>TYPESCRIPT · DIGITAL LOGIC · COMPUTER ARCHITECTURE</sub>
       <br/><br/>
-      Community plugin for monitoring nodes and game servers directly from the Pelican administration panel.
+      An interactive browser-based digital circuit simulator. Explore logic gates, adders, registers and complete CPU architectures — including 8-bit and 32-bit RISC processors — with interactive circuits and an integrated assembly tutorial.
       <br/><br/>
-      <a href="https://github.com/pelican-plugins-community/monitor">VIEW REPOSITORY ↗</a>
+      <a href="https://logic.vioserve.de">OPEN LIVE DEMO ↗</a>
+      <br/>
+      <a href="https://github.com/Fritztechnic/logic-sandbox">VIEW SOURCE CODE ↗</a>
     </td>
   </tr>
 </table>
@@ -87,7 +89,7 @@
 
   <h3>DEVELOPMENT</h3>
 
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,cs,dotnet,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,cs,dotnet,rust,postgres,mysql&theme=dark" />
 
   <br/><br/>
 
@@ -118,7 +120,7 @@
     <td width="50%" valign="top">
       <strong>C# & .NET</strong>
       <br/>
-      Expanding into the .NET ecosystem, application architecture and strongly typed backend development.
+      Exploring the .NET ecosystem, application architecture and strongly typed backend development.
     </td>
     <td width="50%" valign="top">
       <strong>CLOUD-NATIVE SYSTEMS</strong>
@@ -133,9 +135,9 @@
       Routing, network architecture, VPNs and infrastructure connectivity.
     </td>
     <td width="50%" valign="top">
-      <strong>BACKEND ENGINEERING</strong>
+      <strong>ROBOTICS & COMPUTER ARCHITECTURE</strong>
       <br/>
-      Maintainable architectures, API design and scalable application systems.
+      Kinematics, mathematical modelling, digital circuits and processor architecture.
     </td>
   </tr>
 </table>
