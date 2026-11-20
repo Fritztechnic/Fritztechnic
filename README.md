@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assets/contributions.svg" alt="Contribution graph" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,55:171717,100:d10606&height=200&section=header&text=FRITZ%20ISRAEL&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%2F%20INFRASTRUCTURE%20%2F%20SYSTEMS&descSize=14&descAlignY=62" />
 
 <a href="https://fritz.systems"><img src="https://img.shields.io/badge/PORTFOLIO-fritz.systems-d10606?style=flat-square&labelColor=111111" /></a>
@@ -12,6 +10,8 @@
 
 I build software, design infrastructure and operate the systems behind it.<br/>
 Working across the stack — from backend applications to production infrastructure.
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fritztechnic&bg_color=0d0f13&color=c9d1d9&line=d10606&point=ffffff&area=true&area_color=d10606&hide_border=true&hide_title=true&radius=0" />
 
 <h2>01 &nbsp; / &nbsp; About me</h2>
 
