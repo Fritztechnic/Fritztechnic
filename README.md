@@ -1,5 +1,5 @@
  <div align="center">
-  
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,55:171717,100:d10606&height=250&section=header&text=FRITZ%20ISRAEL&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%2F%20INFRASTRUCTURE%20%2F%20SYSTEMS&descSize=14&descAlignY=62" />
 
   <br/>
@@ -56,7 +56,7 @@
       <br/><br/>
       An independent hosting project focused on game servers and VPS infrastructure. Building the platform behind the service — from backend applications and APIs to virtualization, networking and monitoring.
       <br/><br/>
-      <a href="https://vioserve.de">VISIT VIOSERVE ↗</a>
+      <a href="https://vioserve.de">VISIT VIOSERVE <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@
       <br/><br/>
       A 6-DOF robotic arm simulator built in Rust using egui and wgpu. Implements forward and inverse kinematics, trajectory planning, interactive 3D manipulation and automated movement sequences.
       <br/><br/>
-      <a href="https://github.com/Fritztechnic/robotarm-sim">VIEW SOURCE CODE ↗</a>
+      <a href="https://github.com/Fritztechnic/robotarm-sim">VIEW SOURCE CODE <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
     </td>
     <td width="50%" valign="top">
       <h3>03 &nbsp; LOGIC SANDBOX</h3>
@@ -74,9 +74,9 @@
       <br/><br/>
       An interactive browser-based digital circuit simulator. Explore logic gates, adders, registers and complete CPU architectures — including 8-bit and 32-bit RISC processors — with interactive circuits and an integrated assembly tutorial.
       <br/><br/>
-      <a href="https://logic.vioserve.de">OPEN LIVE DEMO ↗</a>
+      <a href="https://logic.vioserve.de">OPEN LIVE DEMO <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
       <br/>
-      <a href="https://github.com/Fritztechnic/logic-sandbox">VIEW SOURCE CODE ↗</a>
+      <a href="https://github.com/Fritztechnic/logic-sandbox">VIEW SOURCE CODE <img src="./assets/icons/arrow-up-right.svg" width="13" height="13" alt=""/></a>
     </td>
   </tr>
 </table>
