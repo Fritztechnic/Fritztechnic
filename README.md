@@ -5,9 +5,9 @@
   <br/><br/>
 
   <p>
-    <a href="https://fritz.systems"><img src="https://img.shields.io/badge/PORTFOLIO-fritz.systems-d10606?style=for-the-badge&labelColor=111111" /></a>
-    <a href="https://fritz.systems/blog"><img src="https://img.shields.io/badge/TECHNICAL%20BLOG-READ%20ARTICLES-242424?style=for-the-badge&labelColor=111111" /></a>
-    <a href="https://vioserve.de"><img src="https://img.shields.io/badge/VIOSERVE-HOSTING-d10606?style=for-the-badge&labelColor=111111" /></a>
+    <a href="https://fritz.systems"><img src="https://img.shields.io/badge/PORTFOLIO-fritz.systems-d10606?style=flat-square&labelColor=111111" /></a>
+    <a href="https://fritz.systems/blog"><img src="https://img.shields.io/badge/TECHNICAL%20BLOG-READ%20ARTICLES-242424?style=flat-square&labelColor=111111" /></a>
+    <a href="https://vioserve.de"><img src="https://img.shields.io/badge/VIOSERVE-HOSTING-d10606?style=flat-square&labelColor=111111" /></a>
   </p>
 
   <br/>
@@ -49,7 +49,11 @@
   <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/cards/p-robotarm.svg" width="49%" alt=""/></a>
   <a href="https://logic.vioserve.de"><img src="./assets/cards/p-logic.svg" width="49%" alt=""/></a>
   <br/>
-  <sub><a href="https://github.com/Fritztechnic/robotarm-sim">Robotarm source ↗</a> &nbsp;·&nbsp; <a href="https://logic.vioserve.de">Logic Sandbox live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Fritztechnic/logic-sandbox">Logic Sandbox source ↗</a></sub>
+  <br/>
+  <a href="https://vioserve.de"><img src="./assets/cards/b-vioserve.svg" width="24%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/cards/b-robotarm.svg" width="24%" alt=""/></a>
+  <a href="https://logic.vioserve.de"><img src="./assets/cards/b-logic-demo.svg" width="24%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic/logic-sandbox"><img src="./assets/cards/b-logic-src.svg" width="24%" alt=""/></a>
 </div>
 
 <br/><br/>
@@ -130,15 +134,10 @@
 
 <div align="center">
 
-  <p>
-    <a href="https://fritz.systems">PERSONAL WEBSITE</a>
-    &nbsp; · &nbsp;
-    <a href="https://fritz.systems/blog">BLOG</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/Fritztechnic">GITHUB</a>
-    &nbsp; · &nbsp;
-    <a href="https://vioserve.de">VIOSERVE</a>
-  </p>
+  <a href="https://fritz.systems"><img src="./assets/cards/b-site.svg" width="24%" alt=""/></a>
+  <a href="https://fritz.systems/blog"><img src="./assets/cards/b-blog.svg" width="24%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic"><img src="./assets/cards/b-github.svg" width="24%" alt=""/></a>
+  <a href="https://vioserve.de"><img src="./assets/cards/b-vioserve.svg" width="24%" alt=""/></a>
 
   <br/><br/>
 

@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="830" height="240" viewBox="0 0 830 240" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12151b"/><stop offset="1" stop-color="#0b0d11"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="829" height="239" rx="14" fill="url(#g)" stroke="#2a2f38"/>
-<rect x="32" y="0" width="48" height="3" rx="1.5" fill="#d10606"/>
-<text x="32" y="46" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">01  /  HOSTING PLATFORM</text>
-<text x="32" y="82" font-size="21" font-weight="700" fill="#ffffff">VioServe</text>
-<text x="32" y="108" font-size="10" letter-spacing="0.6" fill="#ff5a5a" font-weight="600">INFRASTRUCTURE · SOFTWARE DEVELOPMENT · HOSTING</text>
-<text x="32" y="138" font-size="14" fill="#c9d1d9">An independent hosting project focused on game servers and VPS infrastructure. Building the platform behind the</text>
-<text x="32" y="160" font-size="14" fill="#c9d1d9">service — from backend applications and APIs to virtualization, networking and monitoring.</text>
-<text x="32" y="214" font-size="12" letter-spacing="1.5" font-weight="700" fill="#ffffff">VISIT VIOSERVE  <tspan fill="#d10606">↗</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="260" viewBox="0 0 830 260" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<rect x="0.5" y="0.5" width="829" height="259" fill="#0d0f13" stroke="#2a2f38"/>
+<rect x="0" y="0" width="3" height="260" fill="#d10606"/>
+<text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">01  /  HOSTING PLATFORM</text>
+<line x1="28" y1="52" x2="802" y2="52" stroke="#2a2f38"/>
+<text x="28" y="90" font-size="21" font-weight="700" fill="#fff">VioServe</text>
+<text x="28" y="116" font-size="10" letter-spacing="0.8" fill="#ff5a5a" font-weight="600">INFRASTRUCTURE · SOFTWARE DEVELOPMENT · HOSTING</text>
+<text x="28" y="146" font-size="14" fill="#c9d1d9">An independent hosting project focused on game servers and VPS infrastructure. Building the platform behind</text>
+<text x="28" y="168" font-size="14" fill="#c9d1d9">the service — from backend applications and APIs to virtualization, networking and monitoring.</text>
+<line x1="28" y1="208" x2="802" y2="208" stroke="#2a2f38"/>
+<text x="28" y="236" font-size="11" letter-spacing="1.8" font-weight="700" fill="#fff">VISIT VIOSERVE</text>
+<g transform="translate(794,226)" fill="none" stroke="#d10606" stroke-width="1.8" stroke-linecap="square"><path d="M1 1l5 5-5 5"/></g>
 </svg>

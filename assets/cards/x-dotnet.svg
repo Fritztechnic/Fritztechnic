@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12151b"/><stop offset="1" stop-color="#0b0d11"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="409" height="169" rx="14" fill="url(#g)" stroke="#2a2f38"/>
-<rect x="32" y="0" width="48" height="3" rx="1.5" fill="#d10606"/>
-<text x="32" y="46" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">EXPLORING</text>
-<text x="32" y="82" font-size="21" font-weight="700" fill="#ffffff">C# &amp; .NET</text>
-<text x="32" y="118" font-size="14" fill="#c9d1d9">Exploring the .NET ecosystem, application architecture</text>
-<text x="32" y="140" font-size="14" fill="#c9d1d9">and strongly typed backend development.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="190" viewBox="0 0 410 190" font-family="Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<rect x="0.5" y="0.5" width="409" height="189" fill="#0d0f13" stroke="#2a2f38"/>
+<rect x="0" y="0" width="3" height="190" fill="#d10606"/>
+<text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">EXPLORING</text>
+<line x1="28" y1="52" x2="382" y2="52" stroke="#2a2f38"/>
+<text x="28" y="90" font-size="21" font-weight="700" fill="#fff">C# &amp; .NET</text>
+<text x="28" y="124" font-size="14" fill="#c9d1d9">Exploring the .NET ecosystem, application</text>
+<text x="28" y="146" font-size="14" fill="#c9d1d9">architecture and strongly typed backend development.</text>
 </svg>
