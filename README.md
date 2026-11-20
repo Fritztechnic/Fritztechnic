@@ -15,20 +15,12 @@ Working across the stack — from backend applications to production infrastruct
 
 <h2>01 &nbsp; / &nbsp; About me</h2>
 
-<img src="./assets/v3/about-software.svg" width="32%" alt=""/>
-<img src="./assets/v3/about-infra.svg" width="32%" alt=""/>
-<img src="./assets/v3/about-eng.svg" width="32%" alt=""/>
+<img width="100%" src="./assets/v4/about.svg" alt=""/>
 
 <h2>02 &nbsp; / &nbsp; Selected projects</h2>
 
-<a href="https://vioserve.de"><img src="./assets/v3/p-vioserve.svg" width="100%" alt=""/></a>
-<a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/v3/p-robotarm.svg" width="49%" alt=""/></a>
-<a href="https://logic.vioserve.de"><img src="./assets/v3/p-logic.svg" width="49%" alt=""/></a>
-<br/>
-<a href="https://vioserve.de"><img src="./assets/v3/b-vioserve.svg" width="24%" alt=""/></a>
-<a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/v3/b-robotarm.svg" width="24%" alt=""/></a>
-<a href="https://logic.vioserve.de"><img src="./assets/v3/b-logic-demo.svg" width="24%" alt=""/></a>
-<a href="https://github.com/Fritztechnic/logic-sandbox"><img src="./assets/v3/b-logic-src.svg" width="24%" alt=""/></a>
+<img width="100%" src="./assets/v4/projects.svg" alt=""/><br/>
+<a href="https://vioserve.de"><img width="24.9%" src="./assets/v4/b-vioserve.svg" alt=""/></a><a href="https://github.com/Fritztechnic/robotarm-sim"><img width="24.9%" src="./assets/v4/b-robotarm.svg" alt=""/></a><a href="https://logic.vioserve.de"><img width="24.9%" src="./assets/v4/b-logic-demo.svg" alt=""/></a><a href="https://github.com/Fritztechnic/logic-sandbox"><img width="24.9%" src="./assets/v4/b-logic-src.svg" alt=""/></a>
 
 <h2>03 &nbsp; / &nbsp; Technology stack</h2>
 
@@ -42,17 +34,11 @@ Working across the stack — from backend applications to production infrastruct
 
 <h2>04 &nbsp; / &nbsp; Currently exploring</h2>
 
-<img src="./assets/v3/x-dotnet.svg" width="49%" alt=""/>
-<img src="./assets/v3/x-cloud.svg" width="49%" alt=""/>
-<img src="./assets/v3/x-net.svg" width="49%" alt=""/>
-<img src="./assets/v3/x-robo.svg" width="49%" alt=""/>
+<img width="100%" src="./assets/v4/exploring.svg" alt=""/>
 
 <h2>05 &nbsp; / &nbsp; Elsewhere</h2>
 
-<a href="https://fritz.systems"><img src="./assets/v3/b-site.svg" width="24%" alt=""/></a>
-<a href="https://fritz.systems/blog"><img src="./assets/v3/b-blog.svg" width="24%" alt=""/></a>
-<a href="https://github.com/Fritztechnic"><img src="./assets/v3/b-github.svg" width="24%" alt=""/></a>
-<a href="https://vioserve.de"><img src="./assets/v3/b-vioserve.svg" width="24%" alt=""/></a>
+<a href="https://fritz.systems"><img width="24.9%" src="./assets/v4/b-site.svg" alt=""/></a><a href="https://fritz.systems/blog"><img width="24.9%" src="./assets/v4/b-blog.svg" alt=""/></a><a href="https://github.com/Fritztechnic"><img width="24.9%" src="./assets/v4/b-github.svg" alt=""/></a><a href="https://vioserve.de"><img width="24.9%" src="./assets/v4/b-vioserve.svg" alt=""/></a>
 
 <sub>ENGINEERED WITH CURIOSITY. BUILT TO RUN.</sub>
 

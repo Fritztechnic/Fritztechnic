@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="190" viewBox="0 0 830 190" font-family="'Noto Sans', 'Segoe UI', 'Open Sans', -apple-system, Helvetica, Arial, sans-serif">
+<rect width="830" height="190" fill="#0d0f13"/>
+<rect x="0.5" y="0.5" width="829" height="189" fill="none" stroke="#2a2f38"/>
+<line x1="277.5" y1="0" x2="277.5" y2="190" stroke="#2a2f38"/><line x1="554.5" y1="0" x2="554.5" y2="190" stroke="#2a2f38"/><g transform="translate(0,0)">
+<rect x="28" y="0" width="48" height="2" fill="#d10606"/>
+<text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">FOCUS</text>
+<line x1="28" y1="52" x2="249" y2="52" stroke="#2a2f38"/>
+<text x="28" y="90" font-size="21" font-weight="600" fill="#fff">Software</text>
+<text x="28" y="124" font-size="14" fill="#c9d1d9">Backend development, application</text>
+<text x="28" y="146" font-size="14" fill="#c9d1d9">architecture, APIs and full-</text>
+<text x="28" y="168" font-size="14" fill="#c9d1d9">stack applications.</text>
+</g>
+<g transform="translate(277,0)">
+<rect x="28" y="0" width="48" height="2" fill="#d10606"/>
+<text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">FOCUS</text>
+<line x1="28" y1="52" x2="249" y2="52" stroke="#2a2f38"/>
+<text x="28" y="90" font-size="21" font-weight="600" fill="#fff">Infrastructure</text>
+<text x="28" y="124" font-size="14" fill="#c9d1d9">Linux systems, virtualization,</text>
+<text x="28" y="146" font-size="14" fill="#c9d1d9">containerization, networking and</text>
+<text x="28" y="168" font-size="14" fill="#c9d1d9">orchestration.</text>
+</g>
+<g transform="translate(554,0)">
+<rect x="28" y="0" width="48" height="2" fill="#d10606"/>
+<text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">FOCUS</text>
+<line x1="28" y1="52" x2="248" y2="52" stroke="#2a2f38"/>
+<text x="28" y="90" font-size="21" font-weight="600" fill="#fff">Engineering</text>
+<text x="28" y="124" font-size="14" fill="#c9d1d9">Robotics, kinematics, digital</text>
+<text x="28" y="146" font-size="14" fill="#c9d1d9">logic and software-driven</text>
+<text x="28" y="168" font-size="14" fill="#c9d1d9">simulations.</text>
+</g>
+</svg>

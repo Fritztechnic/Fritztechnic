@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="190" viewBox="0 0 410 190" font-family="'Noto Sans', 'Segoe UI', 'Open Sans', -apple-system, Helvetica, Arial, sans-serif">
-<rect x="0.5" y="0.5" width="409" height="189" fill="#0d0f13" stroke="#2a2f38"/>
-<rect x="28" y="0" width="48" height="2" fill="#d10606"/>
-<text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">EXPLORING</text>
-<line x1="28" y1="52" x2="382" y2="52" stroke="#2a2f38"/>
-<text x="28" y="90" font-size="21" font-weight="600" fill="#fff">Cloud-native systems</text>
-<text x="28" y="124" font-size="14" fill="#c9d1d9">Kubernetes, orchestration, infrastructure automation</text>
-<text x="28" y="146" font-size="14" fill="#c9d1d9">and reliable deployments.</text>
-</svg>
