@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="830" height="260" viewBox="0 0 830 260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="260" viewBox="0 0 830 260" font-family="'Noto Sans', 'Segoe UI', 'Open Sans', -apple-system, Helvetica, Arial, sans-serif">
 <rect x="0.5" y="0.5" width="829" height="259" fill="#0d0f13" stroke="#2a2f38"/>
-<rect x="0" y="0" width="3" height="260" fill="#d10606"/>
+<rect x="28" y="0" width="48" height="2" fill="#d10606"/>
 <text x="28" y="38" font-size="11" letter-spacing="2" fill="#8b949e" font-weight="600">01  /  HOSTING PLATFORM</text>
 <line x1="28" y1="52" x2="802" y2="52" stroke="#2a2f38"/>
-<text x="28" y="90" font-size="21" font-weight="700" fill="#fff">VioServe</text>
+<text x="28" y="90" font-size="21" font-weight="600" fill="#fff">VioServe</text>
 <text x="28" y="116" font-size="10" letter-spacing="0.8" fill="#ff5a5a" font-weight="600">INFRASTRUCTURE · SOFTWARE DEVELOPMENT · HOSTING</text>
 <text x="28" y="146" font-size="14" fill="#c9d1d9">An independent hosting project focused on game servers and VPS infrastructure. Building the platform behind</text>
 <text x="28" y="168" font-size="14" fill="#c9d1d9">the service — from backend applications and APIs to virtualization, networking and monitoring.</text>
 <line x1="28" y1="208" x2="802" y2="208" stroke="#2a2f38"/>
-<text x="28" y="236" font-size="11" letter-spacing="1.8" font-weight="700" fill="#fff">VISIT VIOSERVE</text>
+<text x="28" y="236" font-size="11" letter-spacing="1.8" font-weight="600" fill="#fff">VISIT VIOSERVE</text>
 <g transform="translate(794,226)" fill="none" stroke="#d10606" stroke-width="1.8" stroke-linecap="square"><path d="M1 1l5 5-5 5"/></g>
 </svg>

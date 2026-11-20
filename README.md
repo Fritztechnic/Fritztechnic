@@ -32,9 +32,9 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/ui/about-software.svg" width="32%" alt=""/>
-  <img src="./assets/ui/about-infra.svg" width="32%" alt=""/>
-  <img src="./assets/ui/about-eng.svg" width="32%" alt=""/>
+  <img src="./assets/v3/about-software.svg" width="32%" alt=""/>
+  <img src="./assets/v3/about-infra.svg" width="32%" alt=""/>
+  <img src="./assets/v3/about-eng.svg" width="32%" alt=""/>
 </div>
 
 <br/><br/>
@@ -44,16 +44,16 @@
 <br/>
 
 <div align="center">
-  <a href="https://vioserve.de"><img src="./assets/ui/p-vioserve.svg" width="100%" alt=""/></a>
+  <a href="https://vioserve.de"><img src="./assets/v3/p-vioserve.svg" width="100%" alt=""/></a>
   <br/>
-  <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/ui/p-robotarm.svg" width="49%" alt=""/></a>
-  <a href="https://logic.vioserve.de"><img src="./assets/ui/p-logic.svg" width="49%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/v3/p-robotarm.svg" width="49%" alt=""/></a>
+  <a href="https://logic.vioserve.de"><img src="./assets/v3/p-logic.svg" width="49%" alt=""/></a>
   <br/>
   <br/>
-  <a href="https://vioserve.de"><img src="./assets/ui/b-vioserve.svg" width="24%" alt=""/></a>
-  <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/ui/b-robotarm.svg" width="24%" alt=""/></a>
-  <a href="https://logic.vioserve.de"><img src="./assets/ui/b-logic-demo.svg" width="24%" alt=""/></a>
-  <a href="https://github.com/Fritztechnic/logic-sandbox"><img src="./assets/ui/b-logic-src.svg" width="24%" alt=""/></a>
+  <a href="https://vioserve.de"><img src="./assets/v3/b-vioserve.svg" width="24%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic/robotarm-sim"><img src="./assets/v3/b-robotarm.svg" width="24%" alt=""/></a>
+  <a href="https://logic.vioserve.de"><img src="./assets/v3/b-logic-demo.svg" width="24%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic/logic-sandbox"><img src="./assets/v3/b-logic-src.svg" width="24%" alt=""/></a>
 </div>
 
 <br/><br/>
@@ -101,11 +101,11 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/ui/x-dotnet.svg" width="49%" alt=""/>
-  <img src="./assets/ui/x-cloud.svg" width="49%" alt=""/>
+  <img src="./assets/v3/x-dotnet.svg" width="49%" alt=""/>
+  <img src="./assets/v3/x-cloud.svg" width="49%" alt=""/>
   <br/>
-  <img src="./assets/ui/x-net.svg" width="49%" alt=""/>
-  <img src="./assets/ui/x-robo.svg" width="49%" alt=""/>
+  <img src="./assets/v3/x-net.svg" width="49%" alt=""/>
+  <img src="./assets/v3/x-robo.svg" width="49%" alt=""/>
 </div>
 
 <br/><br/>
@@ -134,10 +134,10 @@
 
 <div align="center">
 
-  <a href="https://fritz.systems"><img src="./assets/ui/b-site.svg" width="24%" alt=""/></a>
-  <a href="https://fritz.systems/blog"><img src="./assets/ui/b-blog.svg" width="24%" alt=""/></a>
-  <a href="https://github.com/Fritztechnic"><img src="./assets/ui/b-github.svg" width="24%" alt=""/></a>
-  <a href="https://vioserve.de"><img src="./assets/ui/b-vioserve.svg" width="24%" alt=""/></a>
+  <a href="https://fritz.systems"><img src="./assets/v3/b-site.svg" width="24%" alt=""/></a>
+  <a href="https://fritz.systems/blog"><img src="./assets/v3/b-blog.svg" width="24%" alt=""/></a>
+  <a href="https://github.com/Fritztechnic"><img src="./assets/v3/b-github.svg" width="24%" alt=""/></a>
+  <a href="https://vioserve.de"><img src="./assets/v3/b-vioserve.svg" width="24%" alt=""/></a>
 
   <br/><br/>
 
